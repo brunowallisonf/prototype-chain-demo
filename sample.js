@@ -40,3 +40,5 @@ Manager.prototype.monthlyBonuses = () => "monthlyBonuses**"
 console.log(Manager.prototype.salary())
 console.log(Manager.prototype.__proto__ === Supervisor.prototype);
 console.log(Manager.prototype.__proto__.__proto__ === Employee.prototype);
+
+
