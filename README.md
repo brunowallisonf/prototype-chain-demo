@@ -1,4 +1,4 @@
-# prototype-chain-demo
+# Prototype chain demos
 This code explain how protype and proto works on javascript
 
 Every object has a prototype and when a object is instantiated The function points to the Object prototype
